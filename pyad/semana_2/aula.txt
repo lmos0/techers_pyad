@@ -1,0 +1,20 @@
+Tipo de Dados --> guardar nas variáveis 
+
+STR = TEXTO
+INT = 3
+FLOAT = 3.0
+BOOL = TRUE/FALSE
+LIST = lista -> 
+
+
+SEQUENCIAL:
+-> escrever código em cima de código. Ler as linhas de forma linear
+
+CONDICIONAL:
+ -> ler as linhas com testes. Executar determinadas linhas, somente se o teste for verdadeiro
+
+ ITERAÇÃO -> 1 Ciclo do loop
+
+ LOOP FOR -> Quando quremos percorrer uma lista
+
+ WHILE -> Quando queremos um no loop, no qual não sabemos o tamanho/a quantidade de ciclos deles
